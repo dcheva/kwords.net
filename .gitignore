@@ -1,0 +1,7 @@
+*Debug/
+*Logs/
+*bin/
+*obj/
+*.vs/
+*.vscode/
+.fake
