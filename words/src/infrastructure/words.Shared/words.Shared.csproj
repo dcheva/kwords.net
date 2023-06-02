@@ -1,7 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\..\core\words.Domain\words.Domain.csproj" />
     <ProjectReference Include="..\..\core\words.Application\words.Application.csproj" />
   </ItemGroup>
 
