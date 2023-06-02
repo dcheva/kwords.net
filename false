@@ -2,3 +2,20 @@
 C:\Projects\kwords.net>git add -A 
 
 C:\Projects\kwords.net>git commit -am "CheckEolTargetFramework        " 
+[initial 6122bea] CheckEolTargetFramework
+ 59 files changed, 123 insertions(+)
+ create mode 100644 false
+ create mode 100644 words/src/core/words.Application/Class1.cs
+ create mode 100644 words/src/core/words.Application/words.Application.csproj
+ create mode 100644 words/src/core/words.Domain/Class1.cs
+ create mode 100644 words/src/core/words.Domain/words.Domain.csproj
+ create mode 100644 words/src/infrastructure/words.Data/Class1.cs
+ create mode 100644 words/src/infrastructure/words.Data/words.Data.csproj
+ create mode 100644 words/words.sln
+
+C:\Projects\kwords.net>git fetch 
+
+C:\Projects\kwords.net>git merge -X theirs 
+Already up to date.
+
+C:\Projects\kwords.net>git commit -am "merged theirs" 
